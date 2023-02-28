@@ -6,14 +6,6 @@ body {
     text-align: center;
 }
 
-/* border need to be adjusted based on list vs grid view */
-.component-list {
-    border: 5px solid green;
-    border-radius: 5px;
-    margin: 5% 10%;
-    /* height: 250px; */
-}
-
 /* Create two columns next to one other */
 .column {
     background-color: rgb(23, 102, 116);
@@ -23,10 +15,3 @@ body {
     /* width: 25%; */
     /* padding: 5px; */
 }
-
-/* Clear floats after columns */
-/* .row:after {
-    content: "";
-    display: table;
-    clear: both;
-} */

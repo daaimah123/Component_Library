@@ -1,0 +1,20 @@
+.btnComponent {
+    border-radius: 50%;
+    background-color: blue;
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    width: 150px;
+    border: none;
+}
+
+.btnComponent:hover {
+    background-color: lightseagreen;
+    box-shadow: 0px 0px 4px 1px  grey;
+    cursor: pointer;
+}
+
+.center-text {
+    text-align: center;
+}
